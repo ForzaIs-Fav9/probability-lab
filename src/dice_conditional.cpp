@@ -18,7 +18,7 @@ int main() {
   }
 
   cout << "n(B) = " << count_B << endl;
-  cout << "n(A ∩ B) = " << count_A_and_B << endl;
+  cout << "n(A and B) = " << count_A_and_B << endl;
   cout << "P(A|B) = " << (double)count_A_and_B << "/" << count_B << endl;
 
   return 0;
