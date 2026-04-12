@@ -205,3 +205,44 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static & dynamic libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dbg
+*.pdb
+
+# Build directories
+build/
+bin/
+dist/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
