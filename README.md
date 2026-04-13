@@ -52,14 +52,11 @@ This result is verified using code.
 probability-lab/
 │
 ├── src/
-│   ├── sample_space.py      # Generates outcome spaces
-│   ├── events.py            # Defines events as functions
-│   └── probability.py       # Computes probabilities
+│ └── dice_conditional.cpp # C++ implementation of conditional probability
 │
-├── experiments/
-│   └── dice_conditional.py  # Example experiment
-│
-└── README.md
+├── README.md
+├── .gitignore
+└── LICENSE
 ```
 
 ---
